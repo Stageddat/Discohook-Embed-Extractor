@@ -8,13 +8,14 @@ It allows you to extract the Discohook embed with a link in a JSON file so you c
 ### Replit
 Fork this https://replit.com/@Stageddat/Discohook-embed-into-Json and change the link and run it.
 ### API
-Request with this link https://discohook-embed-into-json-previewithapi.stageddat.repl.co/getEmbed?url=YOUR-DISCOHOOK-URL-HERE
+Request API:<br>
+https://discohook-embed-into-json-previewithapi.stageddat.repl.co/getEmbed?url=YOUR-DISCOHOOK-URL-HERE<br>
 Remenber replace `YOUR-DISCOHOOK-URL-HERE`
 ### Basic GUI
 Visit this website and enter your link: https://discohook-embed-into-json-previewithapi.stageddat.repl.co/
 ## Installation
 Require:
-- NodeJS https://nodejs.org/
+- [NodeJS](https://nodejs.org/)
 
 For extract the embed and save it into `embed.json`
 ```

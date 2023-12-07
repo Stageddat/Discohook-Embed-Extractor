@@ -1,5 +1,5 @@
 # Extract Discohook embed into JSON file
-*This is a simple script what I used for one of my projects, I know that the code can be improved but in my case I don't need it, I hope it helps you :3* <br>
+*This is a simple script what I used for one of my projects, I know this the script can be improved but in my case I don't need it, I hope it helps you :3* <br>
 Get a embed from Discohook into JSON with this simple script.
 
 ## Features
